@@ -1,4 +1,4 @@
-python==3.9.5
+Pyrogram==2.0.30
 TgCrypto
 motor
 aiofiles
